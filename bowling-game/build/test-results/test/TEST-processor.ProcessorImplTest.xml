@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="processor.ProcessorImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-31T01:02:38" hostname="DESKTOP-9GSMR9K" time="0.742">
+  <properties/>
+  <testcase name="allFramesWereStrike" classname="processor.ProcessorImplTest" time="0.742"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

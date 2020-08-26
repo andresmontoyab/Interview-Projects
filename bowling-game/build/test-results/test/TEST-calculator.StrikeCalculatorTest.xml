@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculator.StrikeCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-31T01:02:38" hostname="DESKTOP-9GSMR9K" time="0.001">
+  <properties/>
+  <testcase name="calculatefinalFrameStrikeAndTwoBonus" classname="calculator.StrikeCalculatorTest" time="0.0"/>
+  <testcase name="calculateTripleStrike" classname="calculator.StrikeCalculatorTest" time="0.0"/>
+  <testcase name="calculateTripleStrikeAtTheEnd" classname="calculator.StrikeCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
