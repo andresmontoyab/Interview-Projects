@@ -1,0 +1,3 @@
+(-2, 4) Direccion Occidente
+(-1, 3) Direccion Sur
+(0, 0) Direccion Occidente

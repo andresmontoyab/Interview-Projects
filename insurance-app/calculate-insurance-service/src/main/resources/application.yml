@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: udea.odontologia.ServicioAgenda
+
+server:
+  port: ${PORT:5001}
